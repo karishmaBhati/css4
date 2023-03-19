@@ -9,8 +9,8 @@ border: 2px  solid brown;
 background-color: blueviolet;
 border-radius: 20px;
 text-align: center;
-
-margin: 10px;
+margin-right: 20%;
+margin-left: 20%;
 }
 .centercontent{
     border: 2px solid black;
